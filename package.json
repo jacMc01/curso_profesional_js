@@ -1,0 +1,25 @@
+{
+  "name": "curso_profesional_js",
+  "version": "1.0.0",
+  "description": "aprendiendo profesionalmente js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacMc01/curso_profesional_js.git"
+  },
+  "keywords": [
+    "js",
+    "plugins",
+    "code",
+    "learning"
+  ],
+  "author": "Jacqueline Mckay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacMc01/curso_profesional_js/issues"
+  },
+  "homepage": "https://github.com/jacMc01/curso_profesional_js#readme"
+}
